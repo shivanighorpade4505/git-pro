@@ -1,3 +1,8 @@
 this is line 1
+<<<<<<< HEAD
 this is line2
 this is line3
+=======
+this is line1 added by b1
+this is line2 added by b1
+>>>>>>> b1
